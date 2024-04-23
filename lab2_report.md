@@ -19,7 +19,7 @@ Date of finished: 22.04.2023
 <img width="842" alt="Снимок экрана 2024-04-22 в 10 59 14 AM" src="https://github.com/digitalsun21/2024-cloud-platforms-as-the-basis-of-technology-entrepreneurship-U4125-gushchina_e_a/assets/166996616/9e4f23cb-344a-4312-960c-f1cb90772c54">
 <br>
 <br>
-3. Изучили представленные логи, отображающие историю записей о событиях.<br>
+3. Изучила представленные логи, отображающие историю записей о событиях.<br>
 Например, первый лог является записью аудита (audit_log) о создании сервиса (Services.CreateService) в Cloud Run.<br>
 Второй лог сообщает о том, что условие готовности (Ready condition status) для ревизии hello-00001-j7p изменилось на True, то есть система проверила его готовность к обработке входящих запросов<br>
 Третий лог информирует о том, что контейнер успешно запущен и готов принимать HTTP-запросы<br>
@@ -27,7 +27,7 @@ Date of finished: 22.04.2023
    
 <br>
 <br>
-Ознакомились с метриками.<br>
+Ознакомилась с метриками.<br>
 Например, Метрика "Request count" отображает количество запросов, поступающих к приложению в единицу времени.<br>
 Метрика "Request latencies" отображает задержки при обработке запросов приложением.<br>
 Метрика "Container instance count" отображает количество экземпляров контейнеров, запущенных для вашего приложения.<br>
@@ -35,7 +35,7 @@ Date of finished: 22.04.2023
 <img width="1416" alt="Снимок экрана 2024-04-22 в 11 09 35 AM" src="https://github.com/digitalsun21/2024-cloud-platforms-as-the-basis-of-technology-entrepreneurship-U4125-gushchina_e_a/assets/166996616/91fb93f8-f8c8-46ff-9982-129701434e6b">
 <br>
 <br>
-4. Изменили порт на 8090 в Cloud Run <br>
+4. Изменила порт на 8090 в Cloud Run <br>
 <img width="565" alt="Снимок экрана 2024-04-22 в 11 11 02 AM" src="https://github.com/digitalsun21/2024-cloud-platforms-as-the-basis-of-technology-entrepreneurship-U4125-gushchina_e_a/assets/166996616/c10a4ad5-ac76-4cb2-a089-c5f01362fac4">
 <br>
 После смены порта, поменялось имя активной версии
